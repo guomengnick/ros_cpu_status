@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
     cpu monitor for ros nodes
     Copyright 2021 Zhiang Chen
